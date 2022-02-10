@@ -1,5 +1,5 @@
 👋 Hi, I’m Alexa, a 16 y/o social impact EdTech founder & FinTech enthusiast
-- ☕️ founder @ [thegeneration.net](https://thegeneration.net) | growth @ [Bloom](https://joinbloom.co) (YC S21)
+- ☕️ founder @ [The Generation](https://thegeneration.net) | growth @ [Bloom - Investing App For Teens](https://joinbloom.co) (YC S21)
 
 Info 😎
 - 📍 Currently in NYC
