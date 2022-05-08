@@ -2,9 +2,9 @@
 - ☕️ founding growth @ [Bloom - Investing App For Teens](https://joinbloom.co) (YC S21)
 - 🧬 founder @ [The Generation](https://thegeneration.net)
 
-Info 😎
+Info 
 - 📍 Currently in NYC
 - 🐦 Twitter: [@alexakayman](https://twitter.com/alexakayman)
 
-More Info 🤯
+More Info 
 - 🔗 [alexakayman.com](https://alexakayman.com)
