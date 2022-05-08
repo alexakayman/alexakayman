@@ -4,5 +4,6 @@
 
 Info 
 - 📍 Currently in NYC
-- 🐦 Twitter: [@alexakayman](https://twitter.com/alexakayman)
+- 🐦 [@alexakayman](https://twitter.com/alexakayman)
 - 🔗 [alexakayman.com](https://alexakayman.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexakayman/)
