@@ -7,5 +7,5 @@ Info
 - 🐦 [@alexakayman](https://twitter.com/alexakayman)
 - 🔗 [alexakayman.com](https://alexakayman.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexakayman/)
--
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/780995151639216160)](https://discord.com/users/780995151639216160)
