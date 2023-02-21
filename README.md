@@ -1,6 +1,6 @@
 👋 Hi, I’m Alexa
-- ☕️ founding growth @ [Bloom - Investing App For Teens](https://joinbloom.co) (YC S21)
-- 🧬 founder @ [The Generation](https://thegeneration.net)
+- ☕️ Founding growth @ [Bloom - Investing App For Teens](https://joinbloom.co) (YC S21)
+- 🧬 Founder @ [The Generation](https://thegeneration.net)
 
 Info 
 - 📍 Currently in NYC
