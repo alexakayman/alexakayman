@@ -1,6 +1,6 @@
 <p>Exploring longevity, urban infra, and edtech.</p>
 
-- 🔭 I’m currently working on [othea](othea.org) and product + high-converting digital experiences for VC and YC-backed startups through [kayman.ventures](kayman.ventures).
+- 🔭 I’m currently working on [othea](https://othea.org) and product + high-converting digital experiences for VC and YC-backed startups through [kayman.ventures](https://kayman.ventures).
 
 - 🌱 I’m currently learning about **state craft, longevity, and philosophy.**
 
