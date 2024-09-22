@@ -1,5 +1,4 @@
-<h1>Hi 👋, I'm Alexa</h1>
-<h3>Exploring longevity, urban infra, and edtech.</h3>
+<p>Exploring longevity, urban infra, and edtech.</p>
 
 - 🔭 I’m currently working on [othea](othea.org) and product + high-converting digital experiences for VC and YC-backed startups through [kayman.ventures](kayman.ventures).
 
