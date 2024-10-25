@@ -1,10 +1,5 @@
-<p>Exploring longevity, urban infra, and edtech.</p>
 
-- 🔭 I’m currently working on [othea](https://othea.org) and product + high-converting digital experiences for VC and YC-backed startups through [kayman.ventures](https://kayman.ventures).
-
-- 🌱 I’m currently learning about **state craft, longevity, and philosophy.**
-
-- 💬 Ask me about **scaling consumer fintech, gtm operations, and product design.**
+- 🌱 currently learning about **state craft, longevity, and philosophy.**
 
 - 📚 I've published research memos on early-stage companies in defense, fintech, and infra through [Contrary Research](https://research.contrary.com/search/alexa%20kayman)
 
