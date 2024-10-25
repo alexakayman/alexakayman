@@ -3,7 +3,7 @@
 
 - 📚 I've published research memos on early-stage companies in defense, fintech, and infra through [Contrary Research](https://research.contrary.com/search/alexa%20kayman)
 
-- 👨‍💻 More at [alexakayman.com](alexakayman.com) and [read.cv/alexakayman](https://read.cv/alexakayman).
+- 👨‍💻 More at [alexakayman.com](alexakayman.com) 
 
 
 <p align="left">
