@@ -1,5 +1,5 @@
 
-- 🌱 currently learning about **state craft, longevity, and philosophy.**
+- 🌱 currently learning about **state craft, osint, and philosophy.**
 
 - 📚 I've published research memos on early-stage companies in defense, fintech, and infra through [Contrary Research](https://research.contrary.com/search/alexa%20kayman)
 
